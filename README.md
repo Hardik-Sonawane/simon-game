@@ -13,3 +13,4 @@ jQuery: Used for smooth animations, event handling, and DOM manipulations like a
 Game Logic: Functions like nextSequence(), checkAnswer(), and animatePress() create the core of the game, ensuring it reacts to user input and progresses through levels.
 Audio Feedback: Sounds are played when buttons are clicked or a mistake is made, providing instant feedback to the player.
 Play the Game:
+https://hardik-sonawane.github.io/simon-game/
